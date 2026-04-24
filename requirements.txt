@@ -1,0 +1,8 @@
+ttkbootstrap
+reportlab
+cryptography
+pycryptodome
+pypdf2
+numpy
+matplotlib
+pillow
