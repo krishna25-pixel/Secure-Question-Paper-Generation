@@ -4,7 +4,7 @@ A secure, automated desktop application designed to generate, encrypt, and verif
 
 ## 🚀 Key Features
 
-* **Automated Generation**: Randomly selects questions based on Course Outcomes (CO) and a weighted difficulty distribution (20% Easy, 60% Medium, 20% Hard)[cite: 2].
+* **Automated Generation**: Randomly selects questions based on Course Outcomes (CO) and a weighted difficulty distribution (20% Easy, 60% Medium, 20% Hard).
 * **Dual-Layer Security**:
     * **PDF Protection**: Automatically applies password protection to generated PDFs.
     * **File Encryption**: Encrypts the final document using Fernet (Symmetric Encryption).
@@ -47,7 +47,7 @@ A simple text file listing the Course Outcome objectives, one per line.
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/secure-paper-generator.git](https://github.com/YOUR_USERNAME/secure-paper-generator.git)
+    git clone [https://github.com/krishna25-pixel/secure-paper-generator.git](https://github.com/Ykrishna25-pixel/secure-paper-generator.git)
     cd secure-paper-generator
     ```
 
@@ -82,4 +82,4 @@ A simple text file listing the Course Outcome objectives, one per line.
 This project uses placeholder keys for demonstration purposes. For production use, ensure you generate unique environment-based keys.
 
 ---
-*Developed for the Secure Examination Management Project.*
+*Developed by Krishna Pratap Singh ❤️.*
